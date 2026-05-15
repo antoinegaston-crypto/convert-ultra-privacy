@@ -29,7 +29,7 @@ ConvertUltra n'intercepte pas, ne stocke pas et ne consulte pas le contenu de ce
 
 4. Conservation des données
 
-Puisque aucune donnée n'est collectée sur nos serveurs, nous ne conservons aucune information concernant vous.
+Puisque aucune donnée n'est collectée sur nos serveurs, nous ne conservons aucune information vous concernant.
 
 5. Consentement
 
